@@ -29,6 +29,7 @@ dependencies:
   json_annotation: ^4.8.1
 
   #Network Service
+  
   dio: ^5.4.1
   retrofit: ^4.1.0
   retrofit_generator: ^8.1.0
